@@ -1,16 +1,88 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Het Patel</h1>
+<h3 align="center">Aspiring Data Scientist | Final Year CSE Student</h3>
 
-<!--
-**hetpatel28/hetpatel28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Final-year Computer Science student
+- 📊 Passionate about Data Science & Machine Learning
+- 💡 Strong interest in solving real-world problems using data
+- 📚 Currently learning: Machine Learning, Statistics, Feature Engineering
+- 🔥 Following: 100 Days of ML, StatQuest, GeeksforGeeks ML Track
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 You have to add this thing here (career goal in 1 line)
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming & Tools
+- Python 🐍
+- SQL
+- Git & GitHub
+
+### 📊 Data Analysis
+- Pandas, NumPy
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+
+### 📈 Data Visualization
+- Matplotlib
+- Seaborn
+- Plotly
+
+### 🤖 Machine Learning (Learning Phase)
+- Supervised Learning
+- Regression & Classification
+
+👉 You have to add this thing here (any extra tools like Excel / Power BI if you know)
+
+---
+
+## 📂 Projects
+
+🔹 **EDA Project**
+- Performed data cleaning, visualization, and insights generation  
+- Tools: Python, Pandas, Seaborn  
+
+🔹 **Machine Learning Project**
+- Built predictive model using regression/classification  
+- Evaluated performance using metrics  
+
+🔹 **Data Analysis Project**
+- Extracted insights from dataset  
+- Created visual dashboards  
+
+👉 You have to add this thing here (project links)
+
+---
+
+## 📚 Currently Learning
+- Advanced Machine Learning  
+- Feature Engineering  
+- Statistics for Data Science  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hetpatel28&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hetpatel28&theme=radical" alt="streak" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/het-patel-586484246/
+
+👉 You have to add this thing here (email or portfolio if any)
+
+---
+
+## ⚡ Fun Fact
+I enjoy learning new concepts daily and applying them in real-world datasets 🚀
