@@ -10,7 +10,6 @@
 - 📚 Currently learning: Machine Learning, Statistics, Feature Engineering
 - 🔥 Following: 100 Days of ML, StatQuest, GeeksforGeeks ML Track
 
-👉 You have to add this thing here (career goal in 1 line)
 
 ---
 
@@ -35,7 +34,7 @@
 - Supervised Learning
 - Regression & Classification
 
-👉 You have to add this thing here (any extra tools like Excel / Power BI if you know)
+
 
 ---
 
@@ -53,7 +52,7 @@
 - Extracted insights from dataset  
 - Created visual dashboards  
 
-👉 You have to add this thing here (project links)
+
 
 ---
 
@@ -79,8 +78,7 @@
 ## 🌐 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/het-patel-586484246/
-
-👉 You have to add this thing here (email or portfolio if any)
+- E-mail: het.a.patel.2812@gmail.com
 
 ---
 
