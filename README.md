@@ -3,38 +3,25 @@
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 - 🎓 Final-year Computer Science student
 - 📊 Passionate about Data Science & Machine Learning
 - 💡 Strong interest in solving real-world problems using data
 - 📚 Currently learning: Machine Learning, Statistics, Feature Engineering
 - 🔥 Following: 100 Days of ML, StatQuest, GeeksforGeeks ML Track
 
+---
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/het-patel-586484246/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:het.a.patel.2812@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)]([your_link_here](https://www.instagram.com/hetpatel_2830/))
 
 ---
-
-## 🛠️ Skills
-
-### 💻 Programming & Tools
-- Python 🐍
-- SQL
-- Git & GitHub
-
-### 📊 Data Analysis
-- Pandas, NumPy
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-
-### 📈 Data Visualization
-- Matplotlib
-- Seaborn
-- Plotly
-
-### 🤖 Machine Learning (Learning Phase)
-- Supervised Learning
-- Regression & Classification
-
-
+# 💻 Tech Stack:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,git,github,sql,mysql,pandas,numpy,sklearn,matplotlib,flask" />
+</p>
 
 ---
 
@@ -72,13 +59,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hetpatel28&theme=radical" alt="streak" />
 </p>
-
----
-
-## 🌐 Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/het-patel-586484246/
-- E-mail: het.a.patel.2812@gmail.com
 
 ---
 
