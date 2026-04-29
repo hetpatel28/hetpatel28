@@ -7,8 +7,9 @@
 - 🎓 Final-year Computer Science student
 - 📊 Passionate about Data Science & Machine Learning
 - 💡 Strong interest in solving real-world problems using data
+- 📚 Skills known: Python,SQL, EDA, preprocessing and feature Engineering, Business analytics, Machine Learning, ML models 
+- 📚 Currently learning: CNN,NLP, Deep learning,Generative AI, Web Analytics, and Growth Metrics.
 - 👯 I’m looking to collaborate on: AI/ML projects, deep learning models, data science challenges, and analytics-driven product ideas.
-- 📚 Currently learning: Machine Learning,CNN,NLP, Deep learning,Generative AI, Web Analytics, and Growth Metrics.
 
 ---
 # 🌐 Connect with Me
